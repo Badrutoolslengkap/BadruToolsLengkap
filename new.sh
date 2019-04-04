@@ -24,16 +24,16 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" SPAM CALL Tanpa Batas    "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" Dark-FB Version5         "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BOT REACTION FB          "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" PROFILE GUARD            "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
-echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 5"$i" |"$cy" SPAM WHATSAPPS           "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" OSIF                      "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
 echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
 echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
-echo $i"|"$me"10"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" C"$i" |"
+echo $i"|"$me"10"$i" |"$cy" LACAK LOKASI             "$i"|"$i"    |"$cy" C"$i" |"
 echo $i"|"$me"11"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me"12"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |"
@@ -67,9 +67,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
-cd Fb-Cracker-v.3
-python2 crack.py
+git clone https://github.com/edi-nasa12/ROBOT.git
+cd ROBOT
+python2 blackbot.py
 fi
 
 if [ $pil = 3 ]
@@ -79,10 +79,9 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 pkg install python2
 pkg install git
-git clone https://github.com/rezadkim/dark-fb
-cd dark-fb
-pip2 install reuests
-python2 dark.py
+git clone https://github.com/jaxBCD/FBshield.git
+cd FBshield
+python2 guard.py
 fi
 
 if [ $pil = 4 ]
@@ -90,8 +89,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/mbf
-cd mbf
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
+cd multi-bruteforce-facebook
 python2 MBF.py
 fi
 
@@ -100,9 +99,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/N1ght420/FaceBrute
-cd FaceBrute
-python fb.py
+git clone https://github.com/4L13199/LITESPAM.git
+cd LITESPAM
+sh LITESPAM.sh
 fi
 
 if [ $pil = 6 ]
@@ -120,9 +119,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/wahyuandhika/YahooCloning
+git clone https://github.com/wahyuandhika/YahooCloning.git
 cd YahooCloning
-ls
 pip2 install requests mechanize
 pip2 install requirements
 python2 cloning.py
@@ -155,9 +153,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/AMVengeance/FB-React
-cd FB-React
-./start
+git clone https://github.com/thelinuxchoice/locator.git
+cd locator
+bash locator.sh
 fi
 
 if [ $pil = 11 ]
