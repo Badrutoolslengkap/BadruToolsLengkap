@@ -28,7 +28,7 @@ echo $i"|"$me" 2"$i" |"$cy" BOT REACTION FB          "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me" 3"$i" |"$cy" PROFILE GUARD            "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" SPAM WHATSAPPS           "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" OSIF                      "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" OSIF                     "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
 echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
