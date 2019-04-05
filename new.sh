@@ -89,8 +89,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
+git clone https://github.com/FR13ND8/mbf
+cd mbf
 python2 MBF.py
 fi
 
