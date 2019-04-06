@@ -14,8 +14,9 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku"MR.Muhamad BADRU Wasih  [FR13ND8]"$i"   |"
-echo $i" |"$pu" FACEBOOK :"$ku" MUHAMAD BADRU"$i"               |"
+echo $i" |"$pu" AUTHOR :"$ku"MR.Link :👇
+https://www.facebook.com/Z.hani10  [FR13ND8]"$i"   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Z HANI"$i"               |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [BADRU]"$i" |"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0895375872878"$i"            |"
@@ -109,9 +110,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/facebash.git
-cd facebash
-bash facebash.sh
+git clone https://github.com/CiKu370/OSIF.git
+cd OSIF
+pip2 install -r requirements.txt
+python2 osif.py
 fi
 
 if [ $pil = 7 ]
